@@ -1,0 +1,6 @@
+# URLs to monitor
+
+
+https://google.com
+https://theenatech.com
+https://accuknox.com

@@ -1,0 +1,5 @@
+2025-09-18 18:19:21,126 - INFO - Starting application uptime check...
+2025-09-18 18:19:21,527 - INFO - Application https://google.com is UP (HTTP 200)
+2025-09-18 18:19:21,645 - INFO - Application https://theenatech.com is UP (HTTP 200)
+2025-09-18 18:19:22,862 - INFO - Application https://accuknox.com is UP (HTTP 200)
+2025-09-18 18:19:22,865 - INFO - Application uptime check completed.
